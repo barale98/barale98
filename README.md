@@ -1,7 +1,5 @@
 ### Hi there 👋, Mi nombre es Tomas
-#### Estudiante de desarrollo de software
-![Estudiante de desarrollo de software](blob:https://web.whatsapp.com/6dcf0478-251e-41d6-a911-b80e32b87ae7)
-
+#### Tomas Martin Barale. Estudiante de desarrollo de software.
 Soy estudiante en Desarrollo de Software, conocimiento abanzado en hardware, realize un curso al cual finalize aprobandolo, tengo conocimientos en software,testing, base de datos, lo cual estoy estudiando.
 
 Skills: JS / HTML / CSS / PHP
